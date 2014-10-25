@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data-Assignment
 ====================================
 
-Course Project 2
+
 
 Assumptions made: 
 1) Data is unzipped in the current working directory
@@ -13,15 +13,15 @@ Steps to execute:
 1)Merge the training and the test sets to create one data set.
 read into tables the data located in
 
-features.txt
-activity_labels.txt
-subject_train.txt
-x_train.txt
-y_train.txt
-subject_test.txt
-x_test.txt
-y_test.txt
-Assign column names and merge to create one data set.
+ - features.txt
+ - activity_labels.txt
+ - subject_train.txt
+ - x_train.txt
+ - y_train.txt
+ - subject_test.txt
+ - x_test.txt
+ - y_test.txt
+ Assign column names and merge to create one data set.
 
 2)Extract only the measurements on the mean and standard deviation for each measurement.
 
